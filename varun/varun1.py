@@ -1,0 +1,12 @@
+
+name = input("Enter your name: ")
+usn = input("Enter your USN: ")
+fees = float(input("Enter your fees: "))
+college = input("Enter your college name: ")
+age = float(input("age:"))
+print("\n--- Student Details ---")
+print("Name:", name)
+print("USN:", usn)
+print("Fees:", fees)
+print("College:", college)
+print("age",age)
